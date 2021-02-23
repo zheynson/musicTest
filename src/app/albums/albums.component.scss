@@ -1,0 +1,19 @@
+.albom{
+  overflow: hidden;
+  height: 220px;
+  border-radius: 10px;
+  margin: 15px;
+  width: calc(33.3% - 30px);
+    span{
+      color: #fff;
+      font-size: 1.3rem;
+    }
+    img{
+      position: absolute;
+      right: -30px;
+      bottom: -10px;
+      height: 135px;
+      transform: rotate(30deg);
+    }
+}
+
